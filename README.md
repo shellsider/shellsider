@@ -1,6 +1,6 @@
 [![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)]
 <h1 align="center">Hi ✨, I'm Harshdeep Singh</h1>
-<h3 align="center">A passionate frontend developer from India. Finding more opportunities to learn, understand and grow my tech-stack!</h3>
+<h3 align="center">A passionate backend developer from India. Finding more opportunities to learn, understand and grow my tech-stack!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shellsider&label=Profile%20views&color=0e75b6&style=flat" alt="shellsider" /> </p>
